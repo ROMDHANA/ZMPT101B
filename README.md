@@ -1,5 +1,7 @@
 # ZMPT101B
-ZMPT101B is an Arduino library that can be used for calibration and AC voltage reading from the ZMPT101B module
+ZMPT101B is an Arduino library that can be used for:
+ - Calibration of ZMPT101B module
+ - AC voltage reading
 ## 1. Calibration of ZMPT101B Module:
 #include <ZMPT101B.h>
 
