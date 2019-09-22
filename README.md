@@ -59,4 +59,8 @@ void setup()
   
 }
 
-void loop(){Serial.print(ac_sensor.get_ac();Serial.println(" Volt"))}
+void loop(){
+ Serial.print(ac_sensor.get_ac();
+ Serial.println(" Volt"))
+ Delay(1000);
+ }
