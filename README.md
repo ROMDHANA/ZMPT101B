@@ -1,4 +1,4 @@
-# ZMPT101B
+# [ZMPT101B](https://github.com/ROMDHANA/ZMPT101B-module)
 ZMPT101B is an Arduino library that can be used for:
  - Calibration of ZMPT101B module
  - AC voltage reading
